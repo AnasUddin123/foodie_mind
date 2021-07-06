@@ -44,6 +44,7 @@ h3{
 }
 .about_us{
     background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
 }
 span{
     color: rgb(240, 115, 13)
@@ -60,4 +61,16 @@ p{
     border-radius: 15px;
     color: white;
     font-weight: 700;
+}
+.align{
+    padding-left: 120px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.flexibility{
+     display: flex;
+}
+.box-setup{
+    box-shadow: inherit;
 }
