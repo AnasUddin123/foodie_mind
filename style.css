@@ -1,0 +1,63 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.adjust{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 10%;
+    
+}
+#another{
+    padding-left: 5%;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+    
+}
+
+
+h3{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: lightslategray;
+    padding-top: 20%;
+    
+}
+#new_one{
+    padding-left: 10%;
+    padding: top 30%; 
+    text-align: justify;
+    padding-right: 10%;
+}
+.recipie_item{
+    text-align: center;
+}
+.about_us{
+    background-image: url(images/shapes/7.png);
+}
+span{
+    color: rgb(240, 115, 13)
+}
+p{ 
+    color: rgb(161, 155, 155);
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(
+45deg
+, lightsalmon, tomato);
+    padding: 8px 15px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+}
