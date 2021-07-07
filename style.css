@@ -71,9 +71,6 @@ p{
 .flexibility{
      display: flex;
 }
-.box-setup{
-    box-shadow: inherit;
-}
 footer{background-color: black;
     margin-top: 100px;
     width: 100%;}
